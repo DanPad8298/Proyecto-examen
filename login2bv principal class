@@ -1,0 +1,13 @@
+package login2bv;
+
+public class Login2BV {
+
+   
+    public static void main(String[] args) {
+        // TODO code application logic here
+        LoginJFrame loginFrame=new LoginJFrame();
+        loginFrame.show();
+        loginFrame.setTitle("Sistema Login");
+    }
+    
+}
